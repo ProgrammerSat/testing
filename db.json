@@ -10,5 +10,13 @@
       "name":"Sanjeev",
       "dob":"18-11-1988"
     }
+  ],
+  "todos":[
+    {
+      "id":1, 
+      "userid":1, 
+      "content":"ABC", 
+      "doc":"21/11/2022" 
+    }
   ]
 }
